@@ -37,9 +37,11 @@ print("Value1 is", object.value1)
 print("Value2 is", object.value2)
 ```
 Result in console:
+``` swift
 Id is 0
 Value1 is 0
 Value2 is 343
+```
 
 ## Contributed
 This is an open source project, so feel free to contribute.
